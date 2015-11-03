@@ -1,4 +1,4 @@
-# Event Forage
+# Event Forage [![Build Status](https://travis-ci.org/alanshaw/eventforage.svg)](https://travis-ci.org/alanshaw/eventforage) [![Dependency Status](https://david-dm.org/alanshaw/eventforage.svg)](https://david-dm.org/alanshaw/eventforage)
 
 Utility for [localforage](https://github.com/mozilla/localForage) that emits events when keys in the store are set or removed.
 
