@@ -1,6 +1,6 @@
 {
   "name": "eventforage",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Utility for localforage that emits events when keys in the store are set or removed",
   "main": "index.js",
   "directories": {
